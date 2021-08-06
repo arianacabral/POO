@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\bin\Debug\caVetor2D.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\bin\Debug\caVetor2D.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\bin\Debug\caVetor2D.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\obj\Debug\caVetor2D.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\obj\Debug\caVetor2D.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\obj\Debug\caVetor2D.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caVetor2D\obj\Debug\caVetor2D.pdb
