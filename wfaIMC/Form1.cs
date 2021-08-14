@@ -16,7 +16,7 @@ namespace wfaIMC
         private double m_peso;
         private double m_altura;
         private double m_imc;
-        private String m_label = "CLASSIFICAÇÃO: ";
+        private String m_label = "CLASSIFICAÇÃO: "; // https://abeso.org.br/
 
         public Form1()
         {
