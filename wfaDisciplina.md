@@ -15,7 +15,7 @@
     
 ## Descrição 📄
   
-<p align = "justify"> Por meio da interface, o usuário aluno pode inserir seus dados (nome, número de matrícula, período e curso), indicar as disciplinas pretendidas para matrícula e salvar o atestado de solicitação de matrícula (<a href="src/Atestado_de_matricula.pdf" target="_blank" rel="noopener">Atestado de Solicitação de Matrícula</a>) no formato PDF.</p> 
+<p align = "justify"> Por meio da interface, o usuário aluno pode inserir seus dados (nome, número de matrícula, período e curso), indicar as disciplinas pretendidas para matrícula e salvar o atestado de solicitação de matrícula (<a href="src/Atestado_de_matricula.pdf" target="_blank" rel="noopener">Atestado de Solicitação de Matrícula</a>).</p> 
   
 </div>
 
