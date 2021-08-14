@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\bin\Debug\caGerente.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\bin\Debug\caGerente.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\bin\Debug\caGerente.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\obj\Debug\caGerente.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\obj\Debug\caGerente.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\obj\Debug\caGerente.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caGerente\obj\Debug\caGerente.pdb
