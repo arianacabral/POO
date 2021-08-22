@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaAssociacaoDeResistores", "wfaAssociacaoDeResistores.csproj", "{BAD34232-FBB2-49E9-8699-7027CDCE0435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD34232-FBB2-49E9-8699-7027CDCE0435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD34232-FBB2-49E9-8699-7027CDCE0435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD34232-FBB2-49E9-8699-7027CDCE0435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD34232-FBB2-49E9-8699-7027CDCE0435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F132E0-3582-4BDD-BD06-4F2BBA2CE5C1}
+	EndGlobalSection
+EndGlobal
