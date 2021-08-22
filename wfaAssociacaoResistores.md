@@ -15,7 +15,7 @@
     
 ## Descrição 📄
   
-<p align = "justify"> Por meio da interface, o usuário pode inserir os valores de resitência de dois reistores, sendo que o usuário tem a opção de escolher a ordem de grandeza do valor de resistência informado (ohms(Ω), kilohms(kΩ) ou megaohms(MΩ)), e obter o valor da resistência equivalente da associação série e paralelo entre os resistores. </p>
+<p align = "justify"> Por meio da interface, o usuário pode inserir os valores de resitência de dois reistores, sendo que o usuário pode escolher a ordem de grandeza do valor informado (ohms(Ω), kilohms(kΩ) ou megaohms(MΩ)), e obter o valor da resistência equivalente da associação série e paralelo entre os resistores. </p>
 </div>
 
 ##
