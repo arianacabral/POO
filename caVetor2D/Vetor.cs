@@ -78,11 +78,8 @@ namespace caVetor2D
         {
             m_proj = new Vetor();
 
-            double prodct_esc = (m_x * v.getX()) + (m_y * v.getY());
-            double proj_X = (prodct_esc / Math.Pow(v.modulo(), 2)) * v.getX();
-            double proj_Y = (prodct_esc / Math.Pow(v.modulo(), 2)) * v.getY();
-            m_proj.setX((prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getX());
-            m_proj.setY((prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getY());
+            m_proj.setX((prodctEscalarCom(v) / (Math.Pow(v.modulo(), 2))) * v.getX());
+            m_proj.setY((prodctEscalarCom(v) / (Math.Pow(v.modulo(), 2))) * v.getY());
 
             return (m_proj);
         }
