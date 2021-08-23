@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,9 +11,9 @@ namespace caVetor2D
         // membros da classe
         private double m_x;
         private double m_y;
-        double m_modulo;
-        double m_ang;
-        Vetor m_proj;;
+        private double m_modulo;
+        private double m_ang;
+        private Vetor m_proj;
 
         // construtor da classe
         public Vetor()
@@ -73,14 +73,13 @@ namespace caVetor2D
         }
 
         // Função para cálculo da projeção de um vetor em outro vetor
-        
         public Vetor projecaoEm(Vetor v)
         {
             m_proj = new Vetor();
 
             m_proj.setX((prodctEscalarCom(v) / (Math.Pow(v.modulo(), 2))) * v.getX());
             m_proj.setY((prodctEscalarCom(v) / (Math.Pow(v.modulo(), 2))) * v.getY());
-
+      
             return (m_proj);
         }
 
