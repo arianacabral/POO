@@ -13,7 +13,7 @@ namespace caVetor2D
         private double m_y;
         double m_modulo;
         double m_ang;
-        double[] m_proj = new double[2];
+        Vetor m_proj;;
 
         // construtor da classe
         public Vetor()
@@ -73,14 +73,17 @@ namespace caVetor2D
         }
 
         // Função para cálculo da projeção de um vetor em outro vetor
-        public double[] projecaoEm(Vetor v)
+        
+        public Vetor projecaoEm(Vetor v)
         {
-            double prodct_esc = (m_x * v.m_x) + (m_y * v.m_y);
-            double proj_X = (prodct_esc/Math.Pow(v.modulo(), 2))*v.getX();
+            m_proj = new Vetor();
+
+            double prodct_esc = (m_x * v.getX()) + (m_y * v.getY());
+            double proj_X = (prodct_esc / Math.Pow(v.modulo(), 2)) * v.getX();
             double proj_Y = (prodct_esc / Math.Pow(v.modulo(), 2)) * v.getY();
-            m_proj[0] = (prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getX();
-            m_proj[1] = (prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getY();
-      
+            m_proj.setX((prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getX());
+            m_proj.setY((prodct_esc / (Math.Pow(v.modulo(), 2))) * v.getY());
+
             return (m_proj);
         }
 
