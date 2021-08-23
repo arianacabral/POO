@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,22 +32,20 @@ namespace caVetor2D
 
             // Apresentando no Console o modulo do vetor
             Console.WriteLine("Módulo de (" + v3.getX() + "," + 
-                v3.getY() + "): " + v3.modulo() + " \n");
+                v3.getY() + "): " + Math.Round(v3.modulo(), 2) + " \n");
 
             Console.WriteLine("Produto escalar entre (" + v2.getX() + "," + v2.getY() + 
-                ") e (" + v3.getX() + "," + v3.getY() + "): " + v2.prodctEscalarCom(v3) + "\n");
+                ") e (" + v3.getX() + "," + v3.getY() + "): " + Math.Round(v2.prodctEscalarCom(v3), 2) + "\n");
 
             Console.WriteLine("Angulo entre (" + v2.getX() + "," + v2.getY() +
-                ") e (" + v3.getX() + "," + v3.getY() + "): " + v2.anguloCom(v3) + "º\n");
+                ") e (" + v3.getX() + "," + v3.getY() + "): " + Math.Round(v2.anguloCom(v3),2) + "º\n");
 
             // Apresentando no Console a projecão de um vetor em outro
-            Vetor vproj = new Vetor();
-            
-            vproj = v2.projecaoEm(v3);
+            Vetor proj = v2.projecaoEm(v3);
 
             Console.WriteLine("Projeção de (" + v2.getX() + ", " + v2.getY() +
-                ") em (" + v3.getX() + ", " + v3.getY() + "): (" + vproj.getX() + 
-                ", " + vproj.getY() + ")" + "\n");
+                ") em (" + v3.getX() + ", " + v3.getY() + "): (" + proj.getX() + 
+                ", " + proj.getY() + ")" + "\n");
 
             Console.ReadLine();
 
