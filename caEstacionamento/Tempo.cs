@@ -122,7 +122,7 @@ namespace caEstacionamento
             return (t_soma);
         }
 
-        // Método que subtrai dos horários
+        // Método que subtrai dois horários
         public Tempo subtrai(Tempo t)
         {
             if(hora > t.getHora())
