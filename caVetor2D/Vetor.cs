@@ -59,7 +59,7 @@ namespace caVetor2D
         // Função para cálculo do Produto Escalar entre dois vetores 2D
         public double prodctEscalarCom(Vetor v)
         {
-            double prodct_esc = (m_x * v.m_x) + (m_y * v.m_y);
+            double prodct_esc = (m_x * v.getX()) + (m_y * v.getY());
             return (prodct_esc);
         }
   
