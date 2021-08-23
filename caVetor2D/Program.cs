@@ -41,11 +41,13 @@ namespace caVetor2D
                 ") e (" + v3.getX() + "," + v3.getY() + "): " + v2.anguloCom(v3) + "º\n");
 
             // Apresentando no Console a projecão de um vetor em outro
-            double[] proj = v2.projecaoEm(v3);
+            Vetor vproj = new Vetor();
+            
+            vproj = v2.projecaoEm(v3);
 
             Console.WriteLine("Projeção de (" + v2.getX() + ", " + v2.getY() +
-                ") em (" + v3.getX() + ", " + v3.getY() + "): (" + proj[0].ToString() + 
-                ", " + proj[1].ToString() + ")" + "\n");
+                ") em (" + v3.getX() + ", " + v3.getY() + "): (" + vproj.getX() + 
+                ", " + vproj.getY() + ")" + "\n");
 
             Console.ReadLine();
 
