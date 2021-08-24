@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\obj\Debug\caAreaFormasGeometricas.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\obj\Debug\caAreaFormasGeometricas.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\bin\Debug\caAreaFormasGeometricas.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\bin\Debug\caAreaFormasGeometricas.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\bin\Debug\caAreaFormasGeometricas.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\obj\Debug\caAreaFormasGeometricas.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caAreaFormasGeometricas\obj\Debug\caAreaFormasGeometricas.pdb
