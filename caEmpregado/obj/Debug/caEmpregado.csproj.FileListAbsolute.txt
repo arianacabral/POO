@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\obj\Debug\caEmpregado.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\obj\Debug\caEmpregado.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\bin\Debug\caEmpregado.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\bin\Debug\caEmpregado.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\bin\Debug\caEmpregado.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\obj\Debug\caEmpregado.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caEmpregado\obj\Debug\caEmpregado.pdb
