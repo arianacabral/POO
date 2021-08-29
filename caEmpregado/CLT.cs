@@ -39,7 +39,7 @@ namespace caEmpregado
         {
             if(m_salario >= 4000.0)
             {
-                return (m_salario * 72.5);
+                return (m_salario * (72.5/100));
             }
             else
             {
