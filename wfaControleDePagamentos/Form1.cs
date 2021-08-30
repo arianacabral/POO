@@ -195,7 +195,7 @@ namespace wfaControleDePagamentos
 
             foreach (Alimentacao pagtosAlimento in listaPagamentosAlimentacao)
             {
-                listBox1.Items.Add(pagtosAlimento.getCPF().ToString() + " - " + pagtosAlimento.getCod().ToString());
+                listBox2.Items.Add(pagtosAlimento.getCPF().ToString() + " - " + pagtosAlimento.getCod().ToString());
             }
         }
 
