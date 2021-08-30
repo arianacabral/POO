@@ -152,7 +152,7 @@ namespace wfaControleDePagamentos
 
                 LimparCamposAlimentacao();
 
-                ListarPagtosSaude();
+                ListarPagtosAlimentacao();
 
             }
             else
