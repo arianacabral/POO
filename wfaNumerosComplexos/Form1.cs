@@ -224,15 +224,19 @@ namespace wfaNumerosComplexos
                         case "+":
                             zr = z1.somar(z2);
                             break;
+                            
                         case "-":
                             zr = z1.subtrair(z2);                 
                             break;
+                            
                         case "x":
                             zr = z1.multiplicar(z2);
                             break;
+                            
                         case "/":
                             zr = z1.dividir(z2);
                             break;
+                            
                         default:
                             MessageBox.Show("Inserir operação!");
                             break;
