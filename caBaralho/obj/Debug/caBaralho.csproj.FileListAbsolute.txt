@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\bin\Debug\caBaralho.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\bin\Debug\caBaralho.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\bin\Debug\caBaralho.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\obj\Debug\caBaralho.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\obj\Debug\caBaralho.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\obj\Debug\caBaralho.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caBaralho\obj\Debug\caBaralho.pdb
