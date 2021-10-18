@@ -1,0 +1,7 @@
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\obj\Debug\caPokemon.csprojAssemblyReference.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\obj\Debug\caPokemon.csproj.CoreCompileInputs.cache
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\bin\Debug\caPokemon.exe.config
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\bin\Debug\caPokemon.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\bin\Debug\caPokemon.pdb
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\obj\Debug\caPokemon.exe
+D:\Ariana\Documentos\2021\DISCIPLINAS\PROGRAMAÇÃO ORIENTADA À OBJETOS\CÓDIGOS\caPokemon\obj\Debug\caPokemon.pdb
