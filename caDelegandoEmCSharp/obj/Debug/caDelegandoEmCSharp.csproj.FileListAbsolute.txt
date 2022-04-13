@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\bin\Debug\caDelegandoEmCSharp.exe.config
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\bin\Debug\caDelegandoEmCSharp.exe
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\bin\Debug\caDelegandoEmCSharp.pdb
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\obj\Debug\caDelegandoEmCSharp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\obj\Debug\caDelegandoEmCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\obj\Debug\caDelegandoEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\obj\Debug\caDelegandoEmCSharp.exe
+C:\Users\user\Documents\Projeto\caDelegandoEmCSharp\obj\Debug\caDelegandoEmCSharp.pdb
