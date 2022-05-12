@@ -1,6 +1,6 @@
 # 📦 Programação Orientada a Objetos em C#
 
-> Repositório sobre os conceitos básicos de Programação Orientada a Objetos em C#
+> Repositório referente à disciplina de Programação Orientada a Objetos em C#
 
 <img src="src/wfaDisciplina.gif" width="100%;"/>
  
