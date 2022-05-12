@@ -18,3 +18,5 @@
 ➔ | [caFila](https://github.com/arianacabral/POO/tree/master/caFila) | Console | Aplicação em Console para trabalhar com **Enqueue** em C# (FILA)
 ➔ | [caFilaDinamica](https://github.com/arianacabral/POO/tree/master/caFilaDinamica) | Console | Aplicação em Console para trabalhar com filas dinâmicas (FILA)
 🤵🏻‍♂️ | [caGerente](https://github.com/arianacabral/POO/tree/master/caGerente) | Console | Aplicação em Console para trabalhar com dados de funcionários (HERANÇA)
+🎯 | [caPascalsTriangle](https://github.com/arianacabral/POO/tree/master/caPascalsTriangle) | Console | Aplicação em Console para apresentar o **Triângulo de Pascal**
+👩🏽‍⚖️ | [caPessoaJuridicaPessoaFisica](https://github.com/arianacabral/POO/tree/master/caPessoaJuridicaPessoaFisica) | Console | Aplicação em Console para trabalhar com dados de pessoas físicas e jurídicas (HERANÇA)
