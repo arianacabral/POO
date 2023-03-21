@@ -23,9 +23,11 @@
 
 ## Instalação 🛠️
 
+Se você é um usuário Git, clone o repositório:
+
 ```bash
 # Clone o repositório
-$ git clone https://github.com/arianacabral/POO.git
+git clone https://github.com/arianacabral/POO.git
 ```
 
 ## Linguagens e Tecnologias 💻
