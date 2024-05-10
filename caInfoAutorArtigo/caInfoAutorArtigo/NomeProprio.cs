@@ -19,7 +19,7 @@ namespace caInfoAutorArtigo
             _nome_paper = "";
         }
 
-        // construtor com apenas um atributos de entrada
+        // construtor com apenas um atributo de entrada
         public NomeProprio(String nome_completo)
         {
             _nome_completo = nome_completo;
