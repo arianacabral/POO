@@ -1,0 +1,7 @@
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\bin\Debug\caInfoAutorArtigo.exe.config
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\bin\Debug\caInfoAutorArtigo.exe
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\bin\Debug\caInfoAutorArtigo.pdb
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\obj\Debug\caInfoAutorArtigo.csproj.AssemblyReference.cache
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\obj\Debug\caInfoAutorArtigo.csproj.CoreCompileInputs.cache
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\obj\Debug\caInfoAutorArtigo.exe
+C:\Ariana\Formação Acadêmica\01 - Pós Graduação\01 - Doutorado\01-Disciplinas\07-APOO\caInfoAutorArtigo\caInfoAutorArtigo\obj\Debug\caInfoAutorArtigo.pdb
