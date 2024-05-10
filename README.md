@@ -20,7 +20,7 @@
 🤵🏻‍♂️ | [caGerente](https://github.com/arianacabral/POO/tree/master/caGerente) | Console | Aplicação em Console para trabalhar com dados de funcionários (HERANÇA)
 🎯 | [caPascalsTriangle](https://github.com/arianacabral/POO/tree/master/caPascalsTriangle) | Console | Aplicação em Console para apresentar o **Triângulo de Pascal**
 👩🏽‍⚖️ | [caPessoaJuridicaPessoaFisica](https://github.com/arianacabral/POO/tree/master/caPessoaJuridicaPessoaFisica) | Console | Aplicação em Console para trabalhar com dados de pessoas físicas e jurídicas (HERANÇA)
-🔬 | [caInfoAutorArtigo](https://github.com/arianacabral/POO/tree/master/caInfoAutorArtigo) | Console | Aplicação em Console para gerar o nome em citações bibliográficas, conforme o usado na [Plataforma Lattes](www.lattes.cnpq.br)  (CLASSE)
+🔬 | [caInfoAutorArtigo](https://github.com/arianacabral/POO/tree/master/caInfoAutorArtigo) | Console | Aplicação em Console para gerar o nome em citações bibliográficas, conforme o usado na [Plataforma Lattes](https://lattes.cnpq.br)  (CLASSE)
 
 ## Instalação 🛠️
 
